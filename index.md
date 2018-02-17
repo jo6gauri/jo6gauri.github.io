@@ -1,37 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jo6gauri/jo6gauri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Assignment 2**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Bar Chart Link](https://bl.ocks.org/jo6gauri/dcd3ce69f8cb2dbac9c53aa282321fed)
 
-### Markdown
+[Line Chart Link](https://bl.ocks.org/jo6gauri/17ae6fad31bf606077ff2b3dca974087)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Scatter Plot Bivariate Link](https://bl.ocks.org/jo6gauri/10a63bb4da1d82b5f845aaffeb2e097e)
 
-```markdown
-Syntax highlighted code block
+[Scatter Plot Trivariate Link](https://bl.ocks.org/jo6gauri/4f1757689a3efbe27454d9b42c5a0c86)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jo6gauri/jo6gauri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Trellis Plot Link](https://bl.ocks.org/jo6gauri/594ebf82b74eb639426ceab1d9f7d0a2)
