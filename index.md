@@ -11,3 +11,5 @@
 [Scatter Plot Trivariate Link](https://bl.ocks.org/jo6gauri/4f1757689a3efbe27454d9b42c5a0c86)
 
 [Trellis Plot Link](https://bl.ocks.org/jo6gauri/594ebf82b74eb639426ceab1d9f7d0a2)
+
+[Scatter Plot Matrix Link](https://bl.ocks.org/jo6gauri/58ea00a329215ceb81acf9c63882f82b)
