@@ -13,3 +13,5 @@
 [Trellis Plot Link](https://bl.ocks.org/jo6gauri/594ebf82b74eb639426ceab1d9f7d0a2)
 
 [Scatter Plot Matrix Link](https://bl.ocks.org/jo6gauri/58ea00a329215ceb81acf9c63882f82b)
+
+[Parallel Coordinates Plot Link](https://bl.ocks.org/jo6gauri/4b55b297492b2bb7b02cf473ec2c8fbd)
