@@ -22,3 +22,22 @@
 [Force Directed Layout Link](https://bl.ocks.org/jo6gauri/74244f50a93db507be61d11b17f64288)
 
 [Matrix Based Representation Link](https://bl.ocks.org/jo6gauri/29154e65cbd684e0ae6a334a9a32feba)
+
+
+**Assignment 4**
+
+Added simple interactions also like color change on bar hovering, tooltip in scatterplots etc.
+
+[Bar Chart Link](https://bl.ocks.org/jo6gauri/4fd852e2d73be3920094f2ed540125b6)
+
+[Line Chart Link](https://bl.ocks.org/jo6gauri/7286cb95732832f92d1995aac8c39ea1)
+
+[Scatter Plot Bivariate Link](https://bl.ocks.org/jo6gauri/e98d76222a26c4a1296ad6ebdfd59a85)
+
+[Scatter Plot Trivariate Link](https://bl.ocks.org/jo6gauri/7600c57d5d7a58c58fa63aeb682cb291)
+
+[Trellis Plots Link](http://bl.ocks.org/jo6gauri/3fe0361f71378d4139074c910aff9766)
+
+[Scatter Plot Matrix Link](http://bl.ocks.org/jo6gauri/c07ebf6611f1bc216ad7b0c61b0f85ae)
+
+[Parallel Coordinates Plot Link](http://bl.ocks.org/jo6gauri/da2620dc5892f4681480fb5f287f85ec)
