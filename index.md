@@ -45,6 +45,6 @@ Added simple interactions also like color change on bar hovering, tooltip in sca
 
 **Assignment 5**
 
-Implemented required functionality along with extra credit (added details on demand using Voronoi tessellation)
+Implemented required functionalities along with extra credit (added details on demand feature using Voronoi tessellation)
 
 [Interaction in D3](http://bl.ocks.org/jo6gauri/6dcc4dffc37cbad1d4dec558d48ccada)
